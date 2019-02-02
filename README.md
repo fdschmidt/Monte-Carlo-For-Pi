@@ -3,7 +3,7 @@
 
 A Jupyter Notebook that uses a Monte Carlo Algorithm to determine the value of Pi.
 
-## Describtion
+## Description
 The code uses a Monte Carlo algorithm to estimate the value pf pi by generating random points with x in [-1, 1] & y in [-1, 1] and determining whether they lie within the unit circle or not. The obtained pi is compared to numpi.pi and the random points are plotted to visualize the distribution.
 
 As a bonus, the code can also be run until a specific level of accuracy (again compared to numpy.pi) has been achieved.

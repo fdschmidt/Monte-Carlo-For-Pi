@@ -1,4 +1,5 @@
 # Monte Carlo for Pi
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fdschmidt/MonteCarloForPi/blob/master/MonteCarloForPi.ipynb/master)
 
 A Jupyter Notebook that uses a Monte Carlo Algorithm to determine the value of Pi.
 
